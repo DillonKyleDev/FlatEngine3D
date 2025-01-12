@@ -1,0 +1,39 @@
+{
+    "Project Properties": [
+        {
+            "_autoSave": true,
+            "_clearLogBuffer": false,
+            "_fullscreen": false,
+            "_showAnimationPreview": false,
+            "_showAnimator": true,
+            "_showFileExplorer": true,
+            "_showGameView": true,
+            "_showHierarchy": true,
+            "_showInspector": true,
+            "_showKeyFrameEditor": false,
+            "_showLogger": true,
+            "_showMappingContextEditor": false,
+            "_showProfiler": true,
+            "_showSceneView": true,
+            "_showScriptEditor": false,
+            "_showTileSetEditor": false,
+            "_vsyncEnabled": true,
+            "buildPath": "\"C:\\Users\\Dillon Kyle\\Desktop\\ClashBuild\"",
+            "currentFileDirectory": "..\\FlatEngine-Core",
+            "effectsVolume": 13,
+            "focusedGameObjectID": 10000001,
+            "loadedAnimationPath": "",
+            "loadedScenePath": "..\\projects\\Clash\\scenes\\Brick Zone.scn",
+            "musicVolume": 9,
+            "path": "..\\projects\\Clash\\Clash.prj",
+            "persistantGameObjectsScenePath": "..\\projects\\Clash\\Clash.scn",
+            "resolutionHeight": 1080.0,
+            "resolutionWidth": 1920.0,
+            "sceneToLoadAtRuntime": "..projects\\Clash\\scenes\\Brick Zone.scn",
+            "sceneViewGridStepX": 12.0,
+            "sceneViewGridStepY": 12.0,
+            "sceneViewScrollingX": 518.0,
+            "sceneViewScrollingY": 133.0
+        }
+    ]
+}
