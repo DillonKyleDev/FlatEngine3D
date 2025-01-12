@@ -1,9 +1,13 @@
-# FlatEngine - 2D Game Engine
-
-![FlatEngineScreenCap](https://github.com/user-attachments/assets/b0dedd8b-447b-41fb-a73f-68b3cbc3f4d7)
+# FlatEngine - 3D Game Engine
 
 
-### Disclaimer
+![modestBeginnings](https://github.com/user-attachments/assets/adf04ef9-206b-48cb-8e19-af03efd9a783)
+[caption: humble beginnings (see validation errors)]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Disclaimer:
+### *All details below were copied directly from the FlatEngine2D repository when the engine was copied to convert it to Vulkan. Some things will definitely be different for FlatEngine3D.*
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project is in active development and there is currently no released build available.  Feel free to download the source code and build it yourself in Visual Studio.
 
